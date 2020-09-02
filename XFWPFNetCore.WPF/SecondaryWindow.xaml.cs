@@ -12,6 +12,7 @@ namespace XFWPFNetCore.WPF
         {
             InitializeComponent();
             Forms.Init();
+            Syncfusion.SfDataGrid.XForms.WPF.SfDataGridRenderer.Init();
             LoadApplication(new XFWPFNetCore.App());
         }
     }

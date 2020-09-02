@@ -11,6 +11,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="Syncfusion.Xamarin.SfDataGrid" Version="18.2.0.56" />
     <PackageReference Include="Xamarin.Forms" Version="4.8.0.1269" />
   </ItemGroup>
 </Project>
